@@ -11,4 +11,9 @@ H
 A
 R
 
+<<<<<<< HEAD
 hi test1
+=======
+
+this test2
+>>>>>>> origin/test2

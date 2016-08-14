@@ -6,3 +6,7 @@ data
 
 T
 U
+S
+H
+A
+R
